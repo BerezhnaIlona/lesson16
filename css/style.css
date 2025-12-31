@@ -182,7 +182,6 @@ body {
 }
 .hero__container {
   height: 100%;
-  display: flex;
 }
 .hero__content {
   margin-left: auto;
