@@ -184,7 +184,9 @@ body {
   height: 100%;
 }
 .hero__content {
+  max-width: 650px;
   margin-left: auto;
+  
 }
 .hero__heading {
   display: flex;
